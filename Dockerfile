@@ -1,4 +1,4 @@
-FROM hello-world
+FROM alpine
 
-
+COPY att1 /
 
