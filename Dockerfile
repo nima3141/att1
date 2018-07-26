@@ -1,4 +1,4 @@
 FROM alpine
 
-COPY att1 /
+COPY att2 /
 
